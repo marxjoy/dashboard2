@@ -1,0 +1,5 @@
+.env.dev
+.env.prod.db
+.env.prod
+venv
+docker-compose.yml
